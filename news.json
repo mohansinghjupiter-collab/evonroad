@@ -1,98 +1,134 @@
 {
-  "updated": "2026-11-20T03:46:20.748624+00:00",
+  "updated": "2026-11-20T09:52:39.222703+00:00",
   "india": [
     {
-      "title": "Amitabh Kant flags India's BEV lead over US, calls for charging infrastructure push",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQc01td05WamxwUEIxeWs2a2VqUmZjTDQ5YVdFc3ZMcC1NcUY4ZUwzTHNiV2RBek51VWdROUV2bmFQOFYwMVd0NnF5SURzeHU4WnVITS1TTFBIRzhPRmVxY05Bb0RTc0xxVE9ObzZVZVRMXzlqdHExX1VHUkhUcVFEVUxINXZ6ajJ2Vmw1RVpTeFhoaDM5QUlDVE1JVkNYQ2xYZGhqRnJNQnVqN1NvRkNoZGFiWFUtYjFfRHNkRW42Q1lXN1F3X25ZRVJyZHo3R0N2NWVpQ2lCckdxQktJZVhYRE44OWFUTWVZWnI0d0VQaU1paE9VTkRLZldPbkk4aVlLQmdmVThrd3d0U1dwNUFTc0gycE9hVy1lOEtvcTZPYlhxU1BXTTNXdNIB5AFBVV95cUxOc05iVm9ZZDNoRU5PV3FZQzRnZTZGWTdqQjV3bFZBaE5MQlJCcGdveDh3N0lJV00tLWR4dGlQOXhhdExxSDRUcWMya1lwTmRpT1BTRXJQUFZ0bGMzU2hYbkoyY3otbndIR0cxWUtWZUdJRDhTSEJxVnEyYmMwbm1pcmVhbkVBYWxDTU04QWloWkdxRE9vR01XQ19XSjlWeENiNnI0a1hSRVRfZ3piYzliRFNtSVVwYXE1VV8tVHdXSENPX0FnOE9BMmZpSWdsOGdxRWE1b2JBSjMtUzNuMlpyRTFjYm4?oc=5",
-      "source": "ET Auto",
-      "published": "2026-11-20T03:01:10+00:00"
-    },
-    {
-      "title": "Denza Z9 GT vs Porsche Taycan Turbo: Price, Performance, Range, Charging and Technology Compared",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVg3dFdRVnQxSElSLWl5SFJGdTF2a2VodkpHZm5nblpPYzVjVFNoUEhYTThzMDNCak9VdkcwdldodkQ5alZMR1o5WEN5bzBDZDQ0N19Hb1dZZlRBeXNMb0lMWjR2S1N1QVVzaThjeGc1aVhuM0F0QmMzRjNGWmZXZERDbnNEUQ?oc=5",
-      "source": "Autopunditz",
-      "published": "2026-11-19T19:25:31+00:00"
-    },
-    {
-      "title": "Lotus Emeya all-electric hyper-grand tourer in India at Rs 1.80 crore onwards",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSGZ1Zlk0OFY1YWwzeVJ5Y2xxZVRNZTdxd2lObGFnS1BocFVqejdPZmJmNXJBbnFlamhaSmlvOUtPTE9iN29YblgyVkpobWpKN3ViRHg1bGMySXV0dVg1RUdtUlFhYmlIUElnVXFvOUhyZnZYcXZSWG83T1Z1ODZIeHhERDZnTW5za3oyTmQ0bnktMzJBblJ3c1JWWF9QM01iR2xUc0tlaVJTbGxORkN5cE5Wb2hiUXJIT1gzYW5kODdVRzVmVmJRd3NZWUh5OFdTVmpyb19lVnE1c2FWcU1YMG95RFY?oc=5",
-      "source": "Motown India",
-      "published": "2026-11-19T17:23:02+00:00"
-    },
-    {
-      "title": "VEXIS EMOTO: Driving India's Electric Mobility Revolution Through Affordable Electric Scooters and Battery Innovation",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORTQyMlNYSVhsTG1OcE45bV96SGU2Zm1DTEFEUkZtM2xrak5wUG1fcnRnRWFKblBfN0xQUUpodURUeGFkckRsa2syeGQ2U3dncUlZQ0ViUFRic3lzY09WcWxRcV9OeERQdjRMUklpTXBrVjZVazZRc2YwWDRGamVLcWdwb2liTC1CazN5dHJ3c1d2dm14NXVHbTFEbm9fR0l0Q3pzQS1tdWFoR1hTWnFYUGdlOXQ2bnB0NWJ0YXZIcnNjd3h3M1pCbUJ2VHgxRzNiYmx1UUpWaERqUQ?oc=5",
-      "source": "Hindustan Metro",
-      "published": "2026-11-19T17:11:53+00:00"
-    },
-    {
-      "title": "UK's EU reset hits China EV speed bump",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ3lMNmw2c0o3a2MxQUhqQ1Z4ZGZTSlNqM0UwdlI5akZpS2FSSEtQRC1iUUFtU0lwdWsxRi1Ea01KMFNSRDdmS25GTFlEWFNLcnBUVGxMODZMcWo5cWJBblhfLVl4WFo4eVZURGVWR3R2OXl3MnROUm9iWnJoR19zRGxseGpVNTlPOE9fc2hWZjlkZko4d284NnEycGVOVm56cTNPUlFKVWduWTZSLVhjeXdBa1pCbEp5VEpNWHNZYlJtZ2lhWU1kSjB6RHRrbnBMc3VhaTg2Sy1wTDA3cW96bU9lcG81RDJXY2IxcmxzampueFQ3VnQyUFJ30gG2AUFVX3lxTE1mUEY3bWFTMGM1NW53aDJpTGgzVTNMSHFEejJqN3MxMU1CcmJxZFo1TXRoOHUydWlnSUhRWG0wV3ZubzAyS0p0OUJFemZvcEg1ZXhjRVJJVkIwc2lqWnNucGIxVk9LUnIzTkhmb2k0clItSlQtODFvWXlvTF9kZUJnMXVqX0hpVFBFS2FmSnV5aEpfbkktaUs1M19MZXBGZ3BGdHVMQmYxQmY3VlRhanBsdmNibmVn?oc=5",
-      "source": "ET Auto",
-      "published": "2026-11-19T16:45:32+00:00"
-    },
-    {
-      "title": "Mahindra’s Electric Rickshaw Push Earns It The Earthshot Prize",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3hSeFZLYWduQl9rRm9pcV91cHV3cGM4c3JoUEFNbHFQLVlFTmtubHlySThhSG5BSTNZZm51Z1JKLTdldW02WU1wTmRiSi0zMmtQdFpjcUhvb3NYTUZHenZFN0xkeV84bUR0eC1yaF9ZRzFfNmJ4QWhGVFg3cF9KbjM5SUtNUnJleEthbA?oc=5",
-      "source": "IndiaWest",
-      "published": "2026-11-19T16:27:46+00:00"
-    },
-    {
-      "title": "Fujiyama launches 5 e-scooters in India at prices ranging from INR 49,999 to INR 99,999",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMG9rb3lmdXpWanRxQkM5Zk5Zck5ldnotWE1aV1d5d1E5dUxvY0h5MGtqT0xlVGlJYVhJU2RycHBVc2hKQjF3LXg3Q3FST2IyNFdNTGVzc3d3VHFKUXRfbjdCa3YwTzBWc1ZjWlB3MDh1X3BfVXVTRWlsSGEzekRRMWVqbEZEalJnRlVmSVJMU0wteEFQa0VyOWo5TTZRR1kxaV80VkJpRDMxX2luMEpvSUdtSzBieHRKYmtTdE9NU3FMOXVtM1ZOMXFBUXptS1VOeW80YVBLd1RBTm1KRVlYTnBMUTF5Z3VHTGo3ZFNBdlFYV2_SAe4BQVVfeXFMTzRzNWdkY3F1aWxwdnhmUDE1YXlpNS1DTDVSWTFldlQ2ZnVndmk2RXd6cE9ldzlCR0c4QVppZ1loRzdvRGNtQ0dwang3YmRKMXFOa193ZHlodFc1bUZ5WjhQbGFXLWpMSTdoaUp4MFgtd2JhV3pNcmpYVEVQYlpVWnRqTFBsNGpqU3pnYmhBUzFtOFZZM1pwQjdKUmp3RlBacHNVdkg2anh1VjJyalpiWXhKV0hZVWlaTXBFN2Z3OEpfR0RMVTY3WFN1ZWZxSVdwM05yRDFzbkpzNWFiN0FMTGs5ZWlIUWtDMTdBekY1UQ?oc=5",
-      "source": "ET Auto",
-      "published": "2026-11-19T16:22:55+00:00"
-    },
-    {
-      "title": "BoB's Green PLUG to support India’s expanding EV charging ecosystem",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFlQaXdubXRJOGlfV0E3WldDR2RVaDlOdFhyNzhMaWNwdHRpR05pN29zQTFRd1VlZEpzTmtpeWhmSHhlOWcxOUV3MDBjejlDSFpGSDBuQXpDV0NCa0tSc1dRd25tclQtUmI5X2t4MFM0eXZYRmVJVnRtT1BOaUM5TGU3S09iZmlOUV9IMUx3eXB0RUVZYVZpX2pfOFFCbFRLRWFJcW5HbERreU3SAbABQVVfeXFMT3drdEpiVjM4R0d4X3VOOWtUZVJSWUJCMDIxbHpXbHFGY3ZfVHlqNVFXaVp0RlY4R0dUZmVGSjZyWV8xOVVKSFdwd2hjb054TXpTNEotTDFwb1pZeXdBbnIwRjhxODFpRmExYkJ4aVV6eFJ5blBEQU4xWHhvaTZ1elh1REpRVzNhRFJXbHhhODd0Zi1EamZwRnlXaGdYUXNtWk1WdThxVWh2amNlbEhWTVU?oc=5",
-      "source": "BizzBuzz",
-      "published": "2026-11-19T16:11:38+00:00"
-    },
-    {
-      "title": "Ather's stock surge revives investor interest in India's electric two-wheeler startups",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaXNHVmFTM05DU0F4TmswUHdWbE9JZm54djAzZXBzY2pYY01YWlJzVjhoQnVQSlpHdnRkMHZDTlpacXdGRkloVG1vcGxEY0tkdXJlNERha3dqRTU5MUhveFR2NUJZMHFYY1E0Qnd3UmdmeXc2ekJoQTZ5T25jVGVoX3lockNqMWRwdXFDQ3ZIeHZYWnNjMlQ3TEgwSy1vT1ZQU0tmWWF5V1JibkNKbDlmSi1meXlxRFNDRVEyTHVIbHZWZTl0QUotaWFkdTc3eThFaGVST1MtRURfMzBhQ1k1Q1hMWWxHazE1M3fSAe4BQVVfeXFMTTdRWmJpeDkyMTJMT1NYc19rQjFpbXpHWDAtbmJIM1p1dHlTQXc2eW5MV1Y2SVU4UHNpUjJKclBPMkZ6WGJEZm5aZ2U2eXpiWlNvZ3lEQl9WRHl5T3dLOW9KMHdmSC0zTkRKV2U5LTJKT3RrcTU1d2JURFFvQ3RYLUc2S0FNVTBpV0E0UDROTXQ4SFRhVDZqd1YxSUc3aUFGc2lZWTY2M2ZZUUZRamxiYlNvS0xaa2VsZlVRamNrelNhSi1WYTc3SzdkZzFMQVF5Y3NKblNiMWIzS0hmX2ZYcXhVY0otUVpuRnlsRVlqdw?oc=5",
-      "source": "ET Auto",
-      "published": "2026-11-19T16:01:19+00:00"
-    },
-    {
-      "title": "India's electric car market share rises to 8.8%, surpassing the US: Report",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZzZ3c3lzd2JldDg4UDczMzUtRzduOHZCUFRIdjlub2V5NnJBRmI0ZTI5aUpCUk94azZtSnNIbEI4TFlQYTZ0UGlIbE9iUTltSG1nemxNZk1HbW9LeUw5UnBxZFNRcVljUjJvNHhRZGRVaEx4Y3l2T1RtWXI0ZFJjQktKdHBKbkF4X2VJZ2E5UGVBWmRmZ0gyUjNWdDk4X3hLUTNhZXBFZHRlWGo1XzBhSDFMeHB2czlsU0VDdldvUWlVT1ZSZlVSSG5vMlpOazZtMnZoRFprMEM2VzJuTW1fTFBMNHhEc2ExTUlNdGxjWm8wZDkwMVJYV2E5T0xIN1hKQ2RrUjhEMXhzeFp2akE?oc=5",
-      "source": "Zee Business",
-      "published": "2026-11-19T15:07:21+00:00"
-    },
-    {
-      "title": "Upcoming River Electric Scooter Spotted Testing: New Details Emerge",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tY3ZDTGQzblB6XzgwdlRybUxPeHMyZmEyUnBiQ2J5Z2xoNXVoS1BtYlVkR1NCOXRqUmdRUzdzWHhrTVE1OUI3WUNaR0t2a3R3SVM1YXhFWjViMjgtT3lLd0pVMTA4MFVxRGtZZWptbGpBMV9nRDZJMm5zMDh0cms?oc=5",
+      "title": "Range Rover GT EV Set for 2027 Debut",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fYm9aVlYxbk9PU3libkVCNnMzSko3VF9EdS1pWGlleVgtSVRiTEladWh4cDJkeWYtbXlBTFpWeU5zOUgtQlg3SUo3S2JneTA3aW1ZZ2J3ck9GdmNSLWctOHNsZlJzQUF2NF9qZQ?oc=5",
       "source": "Auto India Daily",
-      "published": "2026-11-19T14:05:57+00:00"
+      "published": "2026-11-20T09:18:23+00:00"
     },
     {
-      "title": "VinFast Evo, Kyo & Kinet Scooters To Launch In India In 2027 - Up To 165 Km Range",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1FzOXlnaVQ1WVUxMWp6UnlnTkQyUjhpLXZvVFZBM0tNQUFMZXlZUXN0TWtYcGxUZHZHWlVwNi1Ib2hMbUxuNmxncjBLZ2pkX1ZmZTdOWDU1QW9CVGFOVlpYc0VKaEJxQjhDaEhtTnV3RGJmY2JfNFpnN3BZSmhkUFdsUHJxWVhwY1ZTNXM5ZWY2c0Q3TXhDNG5CdlkzdjRYTXfSAaIBQVVfeXFMTldRczl5Z2lUNVlVMTFqelJ5Z05EMlI4aS12b1RWQTNLTUFBTGV5WVFzdE1rWHBsVGR2R1pVcDYtSG9oTG1MbjZsZ3IwS2dqZF9WZmU3Tlg1NUFvQlRhTlZaWHNFSmhCcUI4Q2hIbU51d0RiZmNiXzRaZzdwWUpoZFBXbFBycVlYcGNWUzVzOWVmNnNEN014QzRuQnZZM3Y0WE13?oc=5",
-      "source": "Gaadiwaadi.com",
-      "published": "2026-11-19T13:55:03+00:00"
+      "title": "Kumaraswamy calls for reliable EV charging, says installation count alone cannot measure progress",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaG1ReVd5eElIYnJTWnlSRmFMaHZaSWVFems0WmFfRTFMRlh5RXUwRFJFajZfeHZkODJYa0JEN3A5ZERQQmhrMms2NVc5VjN3eHBHNmZQMXhsM3VpMHhoYno0WnA1N1haWlpRVi1rYmFnSGdDLVNwRzFvaGpsdlYyVk94d2VGLVE0bkd2V2dtWVl4ckU5d1dJYThRTVFyYjdmUWJhYkN2VWs3RHFOUlFJdkZsV1lUOUN1bmp2aW9EUHlPM191ZFVzaUJMNDE1VklnSGN5QmFFTG9Rb0RKelNLQmlYOTl4bWRjdzVTWjFLY2JweENYQk9j0gH3AUFVX3lxTE9obVF5V3l4SUhiclNaeVJGYUxodlpJZUV6azRaYV9FMUxGWHlFdTBEUkVqNl94dmQ4MlhrQkQ3cDlkRFBCaGsyazY1VzlWM3d4cEc2ZlAxeGwzdWkweGhiejRacDU3WFpaWlFWLWtiYWdIZ0MtU3BHMW9oamx2VjJWT3h3ZUYtUTRuR3ZXZ21ZWXhyRTl3V0lhOFFNUXJiN2ZRYmFiQ3ZVazdEcU5SUUl2RmxXWVQ5Q3VuanZpb0RQeU8zX3VkVXNpQkw0MTVWSWdIY3lCYUVMb1FvREp6U0tCaVg5OXhtZGN3NVNaMUtjYnB4Q1hCT2M?oc=5",
+      "source": "The Tribune",
+      "published": "2026-11-20T09:12:31+00:00"
     },
     {
-      "title": "Upcoming River e-scooter spotted testing before launch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkhfVlRGZmEzQnlTdzA5MXd6bmNpTVktbUlWRXBPRWUwV2Z6TXl1SUpfYXJZVGtBWW43UGxmMDQwbHJiT1FzZFBvUnVraTFoQTRadU9NQktmYUd6YlFIblJWazZnelZ4MnliSGZRc2s0RlctZV9DS1dpUnY1bnlBMzA5NG82TVctMEpjckNQQjU3YUpHaGJXRU5oeWxBZ0xXZ0HSAacBQVVfeXFMUHlqOEl2NVFRSDNOMG9jV2tkQ3k0V2FlNFJkcUZySzVOdVFqcVk5bFE2a2YtTDFpMzd4b21DSDVXU0lPaWI1THJkcDRraHNnUEY3LXNkWHFrdUNjdXdBZTFOTzMzQ2FSTzcyVnJLSllrSXR4VGg4aWp0d014YThtTG9YRTNwSEU5WkpTM1ZpTnRpVk56ZkhpczFQaFNWREN1c3NWTU1YTVU?oc=5",
-      "source": "Autocar India",
-      "published": "2026-11-19T13:20:04+00:00"
+      "title": "PM E-DRIVE records over 30 lakh EV sales; Kumaraswamy stresses charging network expansion",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWlNFR0I0NDlWUjBVb1VBV1VGVW9ZN3hTN3VENGo2MzdRWElfNGNZaGZ0SUZ6cnJzU1pmcWRZNWVnZmFsaWcwYV9CWXZYdHhsb202Y2FvSEVXWEJGZ2lrRXM0Ulp4YUNnb0NsUFVMTTRNVnBuVHZ4aF9PcnZzaWJmMDg0cVd2d3Z6cEF5Umg2a2FPYW5wUVZfRHFZWFp5Q0JMdjZPZW9LYWJrMUxEbTVFUVM5SHJjdkFPOHFmOE9yb1hSZXFLdDBXY2dGVzJWOUNVVXR0cGlrTFhTQi1MX1NzV0F30gHoAUFVX3lxTFBvdGxTbmdtTElhdEY5V0xWekVBdF9GSG5nYXdBU0JRNGxqbkxxUWFkNDBBUTFyenpzWkw5eHZzSWtrY2o4MTFoVlJTNW1sUW1NV0RwZmlGTnNkdlVYNk9Vd2hLRTdRQ3NUekpqY0RLVHg2dm93SWdkXzRYSDZrRmpON0NwcUZhOFU0ZENfQmFPblc2MVBWQnl4MnpWXzhzNkJHNGNJMHdBTEZtRkV1SDdwNHFNT0JYRUEyWkxJZ09Kdm5KR09GaTdIUHU3a0cwc1BOTzhLT253UUpEejZtNkdEZFdBdGJLQ24?oc=5",
+      "source": "BusinessLine",
+      "published": "2026-11-20T08:52:18+00:00"
     },
     {
-      "title": "Bank of Baroda Launches bob Green PLUG Scheme to Finance EV Charging Stations Across India",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnRXX0lObDBSaVlEUW13LS10TjN1Q3MwQ0hPTXhrSWtjcjZaS1FpUHdiQVZTS21MT1hlUkh0elZ3Z2ZQQ2dub2F0OUJvRGdDVVlUdjltcGNqZkctZ0lSdk5xeGNYM3RSX0tzamRaME12LXZ5aWNDek9kMjdTTzhzNThPMHVXSG9KV0loU1lfSjBfV0w2VmUtM2lMVmhJTm1QdmRDS1NRY2dtR2c?oc=5",
-      "source": "Indian Masterminds",
-      "published": "2026-11-19T13:08:47+00:00"
+      "title": "‘Charging infrastructure is core National infrastructure’: SIAM Chief on India's EV growth",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQckdXOWNxeV9LdzFrWUVxREdIM2NGYlVkcWdHdGQ0UGREYm8yQ0RvRnZldjN4UGpxdHAtNUpTVXAwSWJIX2tNRzJ5MDB0QllXOEJOREJsWDlNZGZVc2F1TmJjRmJCRGxYN0FqRzBhM0gtRjRFZzNBOFU5WkZkRXV5ZjZLU0dFSjRqWmxPNi1uTTMzOEFTRG96N3JKZElRWmdiQWtsTGR0ZFFNOVM5cjZ1ZExBUWkxLXRKZkpvMk50dVZsVHBZX0xJZ0Z4T01LRGItNlBBMF94NmZIOEZ6TDl3TkZoWdIB6AFBVV95cUxPc05QbHQwb3hGSFhoSF9FTExfc0RHMXl5dXItWUo3Vkw2R1NOZ0syRG9PRkhiUmJidmp1bkZyRGQteWZpOHlwd2hCN1MxZ0dIbGNRaWIxSU9ERkU1Nkg5cjF2UGFjWVR1aFJWNGFQRkFnTWlUcVBVYjg5a0VLOGFJTUE3ckJ6dEk0VUpxd1RSTUZRRllEUWtNNmhRTzdyZ1NoQlVaZk16RHR6cHkwVlU4NXB2SllVaWN2SGVWOExucFNSdkwtbGxSNll5TDVfc2wyVGN5b01jb21xSkJ1eTlHN1dKYVNnUHlL?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-20T08:47:50+00:00"
     },
     {
-      "title": "Roads reimagined: How India’s electric vehicle ecosystem is driving a green mobility revolution",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHFFZ0xOSFV4SVRaUmRaQVd1X0drTGU1YW5ld19KV2s2ekl0U0hUMXB1eFlhSmp5TnRkOG81SEhNQm1jb3VvNk1lcmozbTVUdWlqZHVPUEZOcVBLX2MwVWlHU1Y1dzVqbDJ3bzBXSi1nUHJVRlhhb1Zyc1BKVENZVjQzMW51WmNEbU51bEcyamZDeHRSRDdBU1hsbHFNQmxkZEJIUFlNeElrbXpycDdmRlRpa3JzY05QYldn?oc=5",
-      "source": "DD News",
-      "published": "2026-11-19T13:04:13+00:00"
+      "title": "PMO adviser flags discom hurdles in expanding India's EV charging network",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeFRRZUlZZzk4NDQta2ZmMkpKREFvQWQ3c3ZaTWNxc0xmbWJUbk5yeDhCeVI3Nm1FMHBXR0piUzd3VkdwSkxJbkpFMFdDZUhQQTRtTGxWdnVucGpxR3gzSDBMMnUyRVY3Wk40SmlaNExYR21lUmhUVDF5QmZhZ044UXV2QzItXzQyQy00RzdxRUFZM3QyU1N4TXk2RDZiTGtVbnNWWS1TSjhCTkJFV29raXZzT1RrdmNJV0ZwdkRVZXZ3YnhRWndYOVJYbGVrdXRnN3pNTNIB2gFBVV95cUxQZGpDOXhJU3dUUG02UVdlQVlvUzkzWjlWWTNWRFNyc3FnaTN0b3ZTSTVjRUlIMDMtbTVKRGZ5M241eEpETGgwUTBVN2tYaUVyNV9DeGZfOFdXbGthd1J5RE5GRkF5c3ZwVmhqOXE0M2xlSFJmYXFCSFVFcEUtVkZaZVpYbW01NU9fLVA3TmJUQXBqTnJqVFA1S3RuN2VhR1JkNloyVXFwVVV4Z3YydUNyWlowbmJrZG5tWjl3S04xRGY4eGdBTlVXT2liY2RSNXpOZngyeWdjVFgyZw?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-20T08:32:41+00:00"
+    },
+    {
+      "title": "Govt open to more funds for EV charging infrastructure if needed, says PM adviser Tarun Kapoor",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk1KaU5qdmxlS0I2SkxpODdRYzFlSk50S1BDdlZkRnhnYWdhME90Z2lDcV9Wd21fNWhiUE9ORmpJWlRJU2s0ZnFBVms1Y1hRYXFMbTBpbk5TQ0RiQ1IxcDh1MnlCTTQ1em1RanJWNmFFY1JEM2FreW1VRzFiRy13Vlh5SnBmRGQ3VkRNUk5QaEsxRnV0bDVZaml3Yldwck53ZVN0OE9ONlRYSzk2SERsMkYyMnkzU2lndDdYR3ZrWU84VnE5VGpSOHhTWDhYeVRTS01F0gHXAUFVX3lxTE56QmVwR0M2Z00wMjFiSl9iWGZxa2V2QzJlR3NNOVhSRFFWOWVUcEVGUXNicFlPOUlPWlhlMTN5em5YSHlVNDZ3Y2dmdmZqVHVnTUpfbXltWG1oT1drWUFpU0xFbk9Bc0RuX0xRWmwtNzFkMlZDcTFyd0d3NDNEcE5TdWtUQmlLa0RfalNsTUFmdWpSd1lLMVRFQW9qXy1GQVdWVkhxWW9fLURTOFIybDN6MnVTX2cta3I3SFdFX3BYeDVPcEVfOVJKbDZyNVgxR29udncyTVJZ?oc=5",
+      "source": "The Tribune",
+      "published": "2026-11-20T08:32:28+00:00"
+    },
+    {
+      "title": "PMO Advisor Flags DISCOM Hurdles in EV Charging Infra Scale-Up",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFzdFF1MXdSTTdwN18xM0MxdFBtY2NpM3NiUTI4dE5CNWdBSnJ4NWhHblVJellUOTd6OHlRaEVmMFdfNW1EMnhSSzIxc1pvNVZCWlZZQjZrWEdrZlgtczNFbGdQbTBIVm5wRldCUzRWX0FWYkJvMnhJdGN0NmRXZklxaVdBM3NqQWt4WmU0eUxUSWFiRlBVcGsxVDRHRXp6Z1NWU1NnUmprZ1l3M3R4NjU0WE3SAboBQVVfeXFMTVhwejhGTDhGUUlBV2pCSmctQXpMTzFvMEJ2bkhvdGpxX1dGb3dNankyX05hM1YyRDN6WjRxVVh3eFJnRTZTNWJoaXNYQUZtSXJuVlVxa1NjUUY3NDJvWkpYbnA3YW5IZlpZQ2RzNk1ncmFCSDBTaWJDZjV2WlptQ3pBR0pQc0Y1b1hfM1J3YW5OMjdrY2p4TVFnX01tbzFfTzlKX1IxWXFyMlR2OWoxS2pRdEVsdElWLWt3?oc=5",
+      "source": "Rediff MoneyWiz",
+      "published": "2026-11-20T08:19:57+00:00"
+    },
+    {
+      "title": "Bank of Baroda Launches Green PLUG Program FOr EV Infra",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEFRbzc1YW9vSHY0V2FzVGJvQU1PUk5hQjFTc2hlWWpvMEpUUThmanh2OGhQLThja1p1UTZQUFB2bHFrOEdINGRBWEZfTC1xTE1aU2VtMXhkaUlCT1g1WFBhRFVSZXJxdTUxRFBaWmNqT1dRdk1QaFJ1S1RuQnN0U0ZhbHRfZTJYRmQ0?oc=5",
+      "source": "Thrust Zone",
+      "published": "2026-11-20T08:17:23+00:00"
+    },
+    {
+      "title": "Indias 7.7% GDP Growth Fuels EV Revolution, SIAM Calls For Massive Expansion Of Charging Network",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWNmM2JXaDlIT0RJdjJ2THdibWxwc3Q4LWNTNFRLeFpPX2ZTOEEtVDdxbVBfaEtwN0tnazZwSmZMVlBtbWFVVUpXWDBnWWVzVG5mWDZPb1o3Smp2N1dpbFdJdERIOGxjRVE4XzhFblZGVWFCZmFXZ1MzRFAxLU5fLVphanJ3eHBoejktcmpuNWViYnpXNm5aWHlHYzNXWU1velVCUEt3Yk5YRXR1c0RNMThKTFBxd0VDTHdMY24tTWVwbTZycG1oZTM0eWcxb03SAdQBQVVfeXFMUDgtT2JSTVM0OFkxeERkQ200TEExRXpZRjRtUFJjRDY0SmJXVXRDNkpCUlpsMFR0YTNXdzFjRGszbGhnU3NGMnJvd3YxYnR6ekp6alk4TmhPSzRodzFLbVI4T0k0dGlRcF95UHVfemI2RGZBYVdOTWhhNjJRUnVPQkZjVEd3aFVicDM4cExCbXgwQ05ZR0QyX2NLQ2t4UThQa1JQTmxNTDJlbDk2TG9vdDBqa1I5V1A1elFqRFFCWWJxSWFfd1NwRmE3ZTZ6d0drbFV4STk?oc=5",
+      "source": "Free Press Journal",
+      "published": "2026-11-20T08:08:04+00:00"
+    },
+    {
+      "title": "India’s 7.7 pc GDP growth fuels EV push: SIAM President",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXVMSmdUcWp4bVBWNWsycVVILW9UZWY2eVFGLTRPemd4eXBfRE5peENOUlZGMUI5eVVEa052NXVNQ2VQR1V2VXU5Y0FCVWFwUUlFeUxOd2pCYm9NVHZqTGdzQkFpNFdwZEdRWXlIN213OF9JTEdNVDB0RDZyMFRvSzdfNEhaNzFVN0lxdWtzaXJHbnBDQlF30gGXAUFVX3lxTE9tdUxKZ1RxanhtUFY1azJxVUgtb1RlZjZ5UUYtNE96Z3h5cF9ETml4Q05SVkYxQjl5VURrTnY1dU1DZVBHVXZVdTljQUJVYXBRSUV5TE53akJib01UdmpMZ3NCQWk0V3BkR1FZeUg3bXc4X0lMR01UMHRENnIwVG9LN180SFo3MVU3SXF1a3NpckducENCUXc?oc=5",
+      "source": "Social News XYZ",
+      "published": "2026-11-20T07:13:20+00:00"
+    },
+    {
+      "title": "‘India at an exciting moment’: SIAM's Sushant Naik on India's EV push, charging infrastructure",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMFR6NEQ1VE1qYXNDOGRZbHNCaWNnVXZuWTE0NjVjU1J2WHdXZmNPTkJ0OXBVRUVnUlJFM0xNc2xYNHNGV3N4dFNnSjRScHVGZzJUeWhsVnVQZ2M4Q1QtejVjRVo3LUNkSmg0dm8ta01scEVUaVVfaDBpR3NJbHU3T3lfbVJwcExMcFU3Y0VveU1GMUZIMDd5eGptcUJyc1QxdFhkX3NFcHpDaWZKQ21hZUUyeDEtVVMxQURfS0lnaUtLZmJpZzN6c2NubVFEenNSQWhWQlFhajFGZEczclgxdEllb2pocUs4SDV0eDZRTkN1Vm8?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-20T06:59:00+00:00"
+    },
+    {
+      "title": "30 lakh EVs sold under PM E-DRIVE, but charging gaps remain: HD Kumaraswamy",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYy1PZHBLSlJhT1JHQVdhaVR0dlV6N2dwWEhwWkRLd1BBaVVSM0NnLTdzMVZzVHUtYnVCYThBSkxwOVRGNEMzRHAyMHFkdHltd0RzTEs2bC1rR0pqQUNKQkphbWg0Z1FoNnBuYnloM1ZINTdrYWhGcm9fY3BCM1BENmtrYk5ZbFF1Qm03enFmV0ZzdnNfeVpqbG9PNmw0R2kxckgyU3o5MzI0T1g5QXR3ZldoalA2cDQ?oc=5",
+      "source": "CNBC TV18",
+      "published": "2026-11-20T06:52:57+00:00"
+    },
+    {
+      "title": "India's EV boom has a charging problem | DW News",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jYkpKT3NwZjJzVzFPUTNESUZiRVhBdzFaNWp6VEc1VzFtYWZaYnVpd1N6U1FidVBDdnlqSnhMYU94UGxqQ0Y0TXdVYzRNZDhqNjBlQTlWVFo4NEJPSWfSAVxBVV95cUxPOENMMnZ6cUFFVjMyTUFuSnhrTDlfVWFOYTA3T1U0MkQ0WXFHWHAwa3ZfOUF2WXBmd1MxVGotcGhVWUpZNHFGWUxsS29fN1l1aWlsc011aWpLZkVfWQ?oc=5",
+      "source": "Modern Ghana",
+      "published": "2026-11-20T05:20:00+00:00"
+    },
+    {
+      "title": "India has EV startups. So why doesn't it have an electric carmaker?",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYllmZDVibU5IU05FQkl0T3NLZTJ5SWZoTzdXdk5jeHlqTTJzeUlXd09oRnluVWc5ekJ1LWhaT2V0NVFBQk92MVFzekpQRTZxRVlMUGpUT2p1dXhvY2VwdGxxanZqMlZLTlROa1oxMFRBMG9ZcFdhS3IyME9UZ29fMUVSeXpUSVZVc3BuanJCbjVoWmpDcGZYeUJRVEV1ejQ?oc=5",
+      "source": "The CapTable",
+      "published": "2026-11-20T04:58:57+00:00"
+    },
+    {
+      "title": "New Mahindra 7-Seater Electric SUV Coming Soon – BE 07 Details Revealed",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVzdaSUJXU3NwZE1sVEFhTXAyUDZsZy03MmphVDdreV9oX0tNM2hMRXJaMjFzcU5GTTc1R3RYVUN0NTM3aDRFMFUtcy1jY3pzcUtNbzhEeWV2QVNuTnl6LV8ybWM1VVE0X19OT2ZTUzlSUzhfVVJBV01lWld6Y05lRg?oc=5",
+      "source": "CarLelo",
+      "published": "2026-11-20T03:48:58+00:00"
     }
   ],
   "global": [
+    {
+      "title": "S.Korea to offer $1,870 tax credit per locally made EV to counter Chinese imports",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iMGUtR3hHako1VjhsbXRDSnhKYl84di1UUDFkUmdhM0pWMXdLWGRPMkJYQVNNWUYwV25KU3FEX1FscHAxdUczYTEzcVJ3ZFVXZEo5Mms5WkRUNDhPWC0wU3NrdE9waXFwaHVrOExDVzZVYUtUckNr?oc=5",
+      "source": "KED Global",
+      "published": "2026-11-20T09:31:00+00:00"
+    },
+    {
+      "title": "New EV Fast-Charging Station Opens",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUERKdWhuOGlKMTAxaGlkM01LRjFFOEdwd3p6eTVwcXRiUzBGS3FFOUZ6LV9lbDZNNDZLLW91VEtSTUlzZXlkLWJBVzNEYXNDbFBXWjJqWlpPaF9VTWVpTXlaSW1CMjFHVkhWRjMwMExKMUd5V1AzZGlPMUc5SUt6UHZraEFPYmZlSGNv?oc=5",
+      "source": "Port Isabel-South Padre Press",
+      "published": "2026-11-20T08:47:47+00:00"
+    },
+    {
+      "title": "I Drove The 2026 Hyundai Ioniq 9. It's The Electric SUV For Real Families",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XR00yVTY0dWJzTmJkN1B3SzRVcW1ZMC1nXzZxbDgyR082OGF6WnF5VEZWYXBHaW1rQTlkVm56SWNnNjBqYmJQZkJHblcwcHh3OFpKLUNlclpGMTFsSlNxbFVSaWpya3pyRWI5ajJB?oc=5",
+      "source": "Motor1.com",
+      "published": "2026-11-20T03:59:20+00:00"
+    },
+    {
+      "title": "Bengaluru Tech Summit: 15-Minute EV Fast Charging and Indigenous Battery Designs on Show, but Skills and Supply Chain Gaps Hold Back Sector",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVWN0X2xhVXIwUjRDQUxQZUZKcU4xd3RRdF9VWjR1NnMwZzU1TFlmNzNaTmNGdVBDbXRIbmVUVEJoVFRILVBZZlJnTnZyOGlHM1RnbkxzQzJiX1cxczZmZVhYLXA1M244MDFEb0pFSXJCOHpITjctTUdhNThuLVpGUXRBYUNwTjdNZmhsN0E1QjNPdi1sQ1Ewc0JTRTRRTGQ4c2lJSFhvSHprLTRWZjBrOWhyZzdneGpSangtM1BvU3lkc1hHQ0J0cEZEdXNSUlhELVhFSkRoaW9Fb3Fid3c3WjVsdVFObklGX2ViZHo4RnkwMTk1Y3hTT1NSOA?oc=5",
+      "source": "The Bengaluru Live",
+      "published": "2026-11-20T03:47:48+00:00"
+    },
+    {
+      "title": "WATCH: President Ferdinand R. Marcos Jr. meets with executives of electric vehicle giant BYD Co. Ltd. on Friday (Nov. 20, 2026) in Shenzhen, China following his participation at #APEC2026. | Darryl John Esguerra; 🎥MCA POOL",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNmxjSlEwb1Z0a1RSbzRLcWtzNDdtb2c1Y0dQX0EwWWI3cG5tRjIyUWcwZUhsOU1mX19UazI0Wm02d3p2YkxkTVNKMUZlOUlyRFh4S09jalJiVlM3UzBPU041ZmZWeTdoR09TUWRBOUFrcEE2LWlGNFJZcUtJLUFpWFUzRDRRTlMxaUY5M000Vi0tNDliLWlkd2FGQ1Vxdy1OWW5mM3Y2UFcxSURScFNOS3BKODJhZURVYk9aS3o1bkE0dk5WRzdQOG5FYlU0Tlh0dFdscg?oc=5",
+      "source": "Facebook",
+      "published": "2026-11-20T03:17:18+00:00"
+    },
+    {
+      "title": "Honda Debuts Hybrid SUV for Asia in Pivot From Failed EV Bet",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXlTNEpiX0VwZUhHcF9PZ0hrUnUxSFRPVmMzR0pMdUtuY0pHQVBRdWd6UV9fNHg5M2RJSnVsUnJvUEdZNG1zMnk4MXV5NWFFc2llTHp0anBqVE9sTE92aE82d21raDVGT3BLU1BpNmFaLWc0S09UWmd5OG11Zkw0Uk8yYXpzcVhZS1lxU3p5N3hwMnRtLUpuTUNEdjlkVE9MamFRekdkZUkxV0lKSS1BVw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-20T03:00:00+00:00"
+    },
     {
       "title": "Sun Fengchun: 400 Million EVs to Require 2 Trillion kWh by 2035",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWtnV180YVNQWEFBVmRoU3hIVmxkYUxHSFptM1o4UFp1MFZrUlhiMTI1RnZILWFnQ1Z3SGppdlZPZlU3RXFMdHlHVlVwSTJxLUxhUEVRT2ZWMndDSk5kN2NDQlR1TTZ6dEFEaDEzQ3hyRmJGeTZNSERCQldoSHZmUS1FWHNhX2lJUERlbGFoWk15LV9COTA5UmhQR1NCWElEaGFKWTNlRG9HVWJVYUNEaEIyV1RXTk53b3VITk9OcWxiUQ?oc=5",
@@ -100,10 +136,16 @@
       "published": "2026-11-20T02:57:51+00:00"
     },
     {
+      "title": "Chery Stockman undercuts BYD Shark 6 as diesel PHEV patent reveals mechanical 4WD",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnNwQ2hLSlJaVGdBLUx0UTdHNXZ0akdSWDZYX2tWZTRUTXEwVkFDUVJ5c0hvLXJ5WFJUSGFZVGZkeDBsTHdqVEhROGRGRUVNRkh6cjJ3RG41M1oyRFQyYVl3QUpHb2xyamlDZmt5MUt6UmZhRHpZQkpXcktQRTg4Z3FEeWJFSmZhYS1XLTBXQWxIV0lUSWdNa2tQMVItMVYyREI5eTUzNHdhazlOUXdYUmowaHJyUWlFUmc?oc=5",
+      "source": "CarNewsChina.com",
+      "published": "2026-11-20T02:46:00+00:00"
+    },
+    {
       "title": "CT expands rebates for used electric vehicles, but not everyone qualifies",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWN0dm1wbmV1QTBUQ1dIVmx0Z3NwRGwxWFlCdjJTYzR1ejZHWmdOUGNEYUtVcllUQU9ldVpJXy16ZW81a1FpOXdTY1dQaWZ3aGd2Zk50dXEybnA0dlFLMFZIQl9veU5hNDhocy01cDVuUmx1SmVpbHVrOFJHc2MyUmRVcU9MZGZUNTNiS3lEN3preENFd29MZ252TkJFRXMzTmFyYXF3?oc=5",
       "source": "News12 | Connecticut",
-      "published": "2026-11-20T01:41:15+00:00"
+      "published": "2026-11-20T01:44:03+00:00"
     },
     {
       "title": "Sacramento-to-LA EV Caravan Puts Electric Road Trips in the Spotlight",
@@ -124,72 +166,48 @@
       "published": "2026-11-19T23:13:55+00:00"
     },
     {
-      "title": "Why China's EVs could throw a wrench into EU, UK trade talks",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-19T23:05:56+00:00"
-    },
-    {
       "title": "Can I drive my electric vehicle through flooded roads? Tips and answers for CA drivers",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WdEk2LTdodGY2WXdqSW44aFFBcFdFVXVQYXJFcFRoOUZQSDQyMUU1VUlCYjJQVkhQdkprZzlUYUJEanNXOEdRdE5oakI2bWJvdEtXWEUwQ0xTU3dNeGJMTk1KZU5mamdId0lUdWQ0RdIBb0FVX3lxTFBnNkoySEZpYUxBblNXN1NsM1A4ekdwcmROXzd4NkFTZlZGSmRWSTVoRnpiMGlIS1ZySzdPd1daZkt6MkViNFc5UEphX1ZNeGlrekVPcWZON01jVERwajh6TGlWRmpjM1BGX3hTVWlqQQ?oc=5",
       "source": "Sacramento Bee",
       "published": "2026-11-19T23:00:00+00:00"
     },
     {
-      "title": "A Win for Cleaner Transportation: Virginia Utilities Take a Step Toward an Electric Vehicle Future",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTB3S0FXTXlsMzlwOHczTUVwME4wR1FfejlmT2xUcEZqZXZkWjUxVm83MWIzcVVmaXZzQ0IyMWl5d1ZpQU5lSVNfZFZFMWZNbVBTSjJDcVlZbUlrLU5iRWRVREFGVjlPRUtiNl9FeEp2VUlIWnNXTllidmVPQkFPLWN2YzBrSmQyU0MtUG40a3FwR0dzV2tjMjlySGlRdHhQa05hNy1zNUtqbVptZkx2VnVPMW5IelpvNGNtZXFydjA?oc=5",
-      "source": "Sierra Club",
-      "published": "2026-11-19T21:24:23+00:00"
+      "title": "Nissan China Play, BMW EV Cuts, USMCA Rules: Week in Automotive",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUlZN1pQNk1XT25wTEhMYmVPWkJLMXNfbHNKRDVjU21pMzljcExwRzhoaGNNQlllSDFoZ0h4SG15UUEtVXg1Zldtck1IUGl2QVh4cWpVTWlKU1Q1QTY5WnBXY3k1YnprYjJNd21fMUJuMkxRcjctWk1xZGFZekdlUzZha1hyTFItYldtaXdmWm9ocFhtSEFuaC1fNjJpOXZjRW5R?oc=5",
+      "source": "Mexico Business News",
+      "published": "2026-11-19T22:45:04+00:00"
     },
     {
-      "title": "Torrance breaks ground on new electric vehicle charging hub for fleet trucks",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0o3MjdMQk5IMUptcEI0ZDdYMFJKUHhYMGJyR1E3RVlsZllQQUdnLXg1TTZQYk0wTmRPMXgwSmx6MEVOUmU1WWJNMTU3eXdEWWNmakdrVDN3T3lfSjJjSEVJZE9NaTlGZzV0M1FxR3NkQnE4QXAyTUtWVk9mMDR4eGxaTnowQVc3NzFKR0dVa25mWWNzV2NvUFZNMkY5endBbnQ4aGhBckJrdk4zVXlUR3dka2Z0NWs?oc=5",
-      "source": "Daily Breeze",
-      "published": "2026-11-19T20:49:03+00:00"
-    },
-    {
-      "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YRG51UzBFdWw0Rm1TQktRb0xWVVF4UDFQZUhkN0c4Qm9lYUx2RVRkLTBZTldIRzNlZ3U3NFluVDBEUUR0SVU4LUlsZWFEVThCM190RXpYMGJVN0ZIcklrN2diYXZ2U19LVkJBdlBabG1ZOXZjUm56Q0Fn?oc=5",
-      "source": "Electrek",
-      "published": "2026-11-19T20:08:00+00:00"
-    },
-    {
-      "title": "Protecting electric vehicles and their drivers, engineering alumni dominate the 2026 NASCAR season and more",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMzZra29BOGhCTnZtOWozREUtQlRzdkZhWWxOWUVpLU5QRW9INU9Mb1U2RWtwSjZaMXJrb0Q5MlI2eEZ5UGZFeDRuTFlpQTZwRzYzY2lTX0U0dS0yaWRlMEs3c3VuMmpkTE1QMG9DUEdVSm80RlJ5eW91SzJUZnVXZmlQVEpwQUFwU2xxNFZuaWp3cWEzSE9YdmdSMVV3UUNMNVFWbi1pTmt5c1VEMVpzNERGeFpUd185V1U2dUlDWkZsbTZHRXBRS055UGx5LUM2Nm14cHRLdVBqekxSTTNZMg?oc=5",
-      "source": "Inside UNC Charlotte",
-      "published": "2026-11-19T19:39:49+00:00"
-    },
-    {
-      "title": "Shell Built A Tiny EV With Hyper-Fast Charging And A New Cooling System",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fcDExRUc0ejRMdHFwVmdSdDBUOVRBTXlNTTlFYXFPcnVBQVFhenJwazBHdzA0V3FRRTZ4Q0MySzQ3SHlaRDZaWFVOYlE0aTVQdWEzX1IwU2VmQ3lkYnpuWkpOVE56ME9IN1lxZTVEVF90SGhX?oc=5",
-      "source": "InsideEVs",
-      "published": "2026-11-19T18:39:31+00:00"
-    },
-    {
-      "title": "Council committee forwards Maui County EV parking bill, adds Molokaʻi exemption",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEsxTE5VM2ljRHpCVnBlbDRDbVlqWjBVZjBKZjF5N2xBRzVpcUZGbWNsRG96d01JZkozTkJmMXdoalU1OXlVSXQ2TFFSTFUzcUhNdkVWVGg5bC1ra0c2RFd6VlBvdFV0cDlTaERqUzVRYk1JRUNEcnJCbEpvY1UzTFltZ2p5OHJaMGNSaG9raWp0Vk1nVi1qcTRuTnBTeGRSeDdPSDhLbm5PcFlGX0Y3NTYtV2JRUQ?oc=5",
-      "source": "Maui Now",
-      "published": "2026-11-19T18:34:51+00:00"
-    },
-    {
-      "title": "UK-EU Reset Stumbles Over China Electric Vehicles",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUd6a0VHWVdzN2l2QktoYlRDQzVGWGllT29nNnhRZmJoYUlIcVFJczllangyVlB0ZUc5Q0dKenZuYWJ0WEtCNjZab2ZIY0piYXA5T050dC0xaDU1aWpoNXl2b2lpZDJLV3JBNDRuWENsN0VwZVhNdnNZUHZBSTdxM0tVYXgtaDZYNER2MDZpQVlVUQ?oc=5",
-      "source": "Modern Diplomacy",
-      "published": "2026-11-19T18:30:59+00:00"
-    },
-    {
-      "title": "Hyundai claims 2027’s ‘Best EV Brand’ title as the IONIQ 5 and IONIQ 9 impress",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETlJIUGl3czVwYWJycnZvLWI0YURmX1BhZ3lQX1NySlFfcU55bHd2YXVycFEwblh2WWZoSVdwVHNTTUt2NXhRb2QzYlg0aWR3WW9INzVZcGtBUHotRTMtZVFpMTYwazRkRnZyVTZUY0tVX0llYnRXYmNLRDJpeE0?oc=5",
-      "source": "Electrek",
-      "published": "2026-11-19T17:58:00+00:00"
+      "title": "Tesla set to add manual battery preconditioning controls in mobile app",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CWktUdFh6bkRxZWFTYUtyUDNhZFBvc1NPNDZxVEE0MUxGTEQzWlU2QXVjbmJiS1ZYQ2tzVWN4c1JfdHZCVkRGbE80NXhiaWpEelR6N3VvOUdqaXpkMEpubmlrbUNVX09MOEYxeS1Lbzhydw?oc=5",
+      "source": "Drive Tesla Canada",
+      "published": "2026-11-19T22:35:28+00:00"
     }
   ],
   "upcoming": [
+    {
+      "title": "2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFItUU1vdzVqVjlyc21EUUpPd3o3UGd3cm9TZEJjNm9sX3R5UmxUZUhYVHp5bklWMFp3RGl6QlRNSmtFZVRKWXhtNnJFVW1BM2lael9xbVctUTR5UTBadkRKYmw0VkxyRTFWbTNwdGhablB6Q05RckM1cGJ4ZUlFQw?oc=5",
+      "source": "Cartoq",
+      "published": "2026-11-20T01:22:53+00:00"
+    },
+    {
+      "title": "Hyundai Neira Electric MPV Revealed: Kia Carens Clavis EV Twin Could Expand Hyundai’s 7-Seater Portfolio",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzhXcXJEbHVwY0p4U3Y3RWhNaThLRjNMU3hHT3B1d1J3d1FsWEpjY2FFZ2JTMGFhWHlCN1p6bjM3UnJ6dlBMLWI2bGNvVlBoaGxkMm54a1c0NnY0Y1RvcUZfdGswRVBIU0FGUFlSNkN2YlB4TjdWbVc1bkp5NmltYXFfLWRjc0ZYcWtWTW9wUQ?oc=5",
+      "source": "Autopunditz",
+      "published": "2026-11-19T21:29:40+00:00"
+    },
     {
       "title": "Lamborghini Temerario Spyder Unveiled With 907hp Hybrid Powertrain and Electric Retractable Hardtop",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdzBXTFpycnU5bmI1YWpwVENGa1lWdU9oUTRUUENtbzRoVXBqeXJUTnZuMi04d2dBOUhnTEdYYzZPTllnVnlZV3RDcEJLOG5CY1c4RWRNQWFkRWRfaC1UVGp5bnhuWjBsaUFMUHpWNVJ6bzIwWGZJZGpWZTJHN1IyS3FFQ055ME56WHJhMkNDU2pIbUxzcm5BM09ibDR6LWdCNFpZWGotX2JuZmM2THM0WWhhRjV6cHpEejhxY0VZN1U4THphNFAtd0Z0NGZFYUZ3ZzRxc0I5U3BxaEFFbHppRUt30gHnAUFVX3lxTE1CWDJPcjdHeDNkQW5mNmpKYkttMDAwLTdxTlBNb2ZfUTNuc1U4SERaelAtVkpma25ISDFGcm5WMTdhRVgtLUdJWEZrdUh1ZXpFMHAzb0RCZkxQZk9EaXZNVWU2bVlKcGZHVHRYTjkwem9zX25GRkxmRDdLR0lJYU51ajN3S1BvOGNSYjB5NURJMkhuVDd3UmRxSmd4N3J6TjZiUlNUazhtT1ZvVzNPLUZheTV2amg2cUZOR2I5cDJial9UZXdhdENCTm9IM3hybWd0Q21obFN2NlJ6aE5FczBQQUpwa2xHMA?oc=5",
       "source": "Sangri Today",
       "published": "2026-11-19T17:06:37+00:00"
+    },
+    {
+      "title": "Fujiyama launches 5 e-scooters in India at prices ranging from INR 49,999 to INR 99,999",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMG9rb3lmdXpWanRxQkM5Zk5Zck5ldnotWE1aV1d5d1E5dUxvY0h5MGtqT0xlVGlJYVhJU2RycHBVc2hKQjF3LXg3Q3FST2IyNFdNTGVzc3d3VHFKUXRfbjdCa3YwTzBWc1ZjWlB3MDh1X3BfVXVTRWlsSGEzekRRMWVqbEZEalJnRlVmSVJMU0wteEFQa0VyOWo5TTZRR1kxaV80VkJpRDMxX2luMEpvSUdtSzBieHRKYmtTdE9NU3FMOXVtM1ZOMXFBUXptS1VOeW80YVBLd1RBTm1KRVlYTnBMUTF5Z3VHTGo3ZFNBdlFYV2_SAe4BQVVfeXFMTzRzNWdkY3F1aWxwdnhmUDE1YXlpNS1DTDVSWTFldlQ2ZnVndmk2RXd6cE9ldzlCR0c4QVppZ1loRzdvRGNtQ0dwang3YmRKMXFOa193ZHlodFc1bUZ5WjhQbGFXLWpMSTdoaUp4MFgtd2JhV3pNcmpYVEVQYlpVWnRqTFBsNGpqU3pnYmhBUzFtOFZZM1pwQjdKUmp3RlBacHNVdkg2anh1VjJyalpiWXhKV0hZVWlaTXBFN2Z3OEpfR0RMVTY3WFN1ZWZxSVdwM05yRDFzbkpzNWFiN0FMTGs5ZWlIUWtDMTdBekY1UQ?oc=5",
+      "source": "ET Auto",
+      "published": "2026-11-19T16:22:55+00:00"
     },
     {
       "title": "Porsche will unveil electric 550 J in Dubai, 250 units",
@@ -211,7 +229,7 @@
     },
     {
       "title": "Upcoming River e-scooter spotted testing before launch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkhfVlRGZmEzQnlTdzA5MXd6bmNpTVktbUlWRXBPRWUwV2Z6TXl1SUpfYXJZVGtBWW43UGxmMDQwbHJiT1FzZFBvUnVraTFoQTRadU9NQktmYUd6YlFIblJWazZnelZ4MnliSGZRc2s0RlctZV9DS1dpUnY1bnlBMzA5NG82TVctMEpjckNQQjU3YUpHaGJXRU5oeWxBZ0xXZ0HSAacBQVVfeXFMUHlqOEl2NVFRSDNOMG9jV2tkQ3k0V2FlNFJkcUZySzVOdVFqcVk5bFE2a2YtTDFpMzd4b21DSDVXU0lPaWI1THJkcDRraHNnUEY3LXNkWHFrdUNjdXdBZTFOTzMzQ2FSTzcyVnJLSllrSXR4VGg4aWp0d014YThtTG9YRTNwSEU5WkpTM1ZpTnRpVk56ZkhpczFQaFNWREN1c3NWTU1YTVU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWo4SXY1UVFIM04wb2NXa2RDeTRXYWU0UmRxRnJLNU51UWpxWTlsUTZrZi1MMWkzN3hvbUNINVdTSU9pYjVMcmRwNGtoc2dQRjctc2RYcWt1Q2N1d0FlMU5PMzNDYVJPNzJWcktKWWtJdHhUaDhpanR3TXhhOG1Mb1hFM3BIRTlaSlMzVmlOdGlWTnpmSGlzMVBoU1ZEQ3Vzc1ZNTVhNVdIBpwFBVV95cUxQeWo4SXY1UVFIM04wb2NXa2RDeTRXYWU0UmRxRnJLNU51UWpxWTlsUTZrZi1MMWkzN3hvbUNINVdTSU9pYjVMcmRwNGtoc2dQRjctc2RYcWt1Q2N1d0FlMU5PMzNDYVJPNzJWcktKWWtJdHhUaDhpanR3TXhhOG1Mb1hFM3BIRTlaSlMzVmlOdGlWTnpmSGlzMVBoU1ZEQ3Vzc1ZNTVhNVQ?oc=5",
       "source": "Autocar India",
       "published": "2026-11-19T13:20:04+00:00"
     },
@@ -228,22 +246,10 @@
       "published": "2026-11-19T09:50:45+00:00"
     },
     {
-      "title": "Hyundai unveils Neira as electric MPV twin of Kia Carens Clavis EV; will it come to India?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlJQTEttdEIyaTlGS2ZTVnU4WGcxOGxfWG5jLWlzWGJXTGxxT01mU3VGZTVjSE9PSnBjZUJNckNZRWx6Vno3WUMwajJvcUtNc1lvTU12SGZHSzhma1Rzc0FEMjZKMVp0bTNzdEFYcC1MX0V4VGNKWmFxbEt0bDJ4VnFTV2RBa3h1MVBLOTZZWkJlZTZ1bE05SEdzM2ZpZ00tMVHSAacBQVVfeXFMUEV5MjBDMEJtUWNETjh5WW9HQUlWd3Y4RXBDVkZBcjdSaVpZN3l5SGpzbkRHMWp6SXJudTRZeW5KZVFWUC1taHl2Y3lHLTJlM3k1cnBOTVUtb0FjYUpQdHJSYWdiVkxKX3JUSHRfVzZtOUV0ekEtcHIzMnpzX09uUzZYeW1rZ1picnl6VXV5N09mSHRIN293RWNKTVRXazBNNGMwazJPbnM?oc=5",
-      "source": "News9live",
-      "published": "2026-11-19T08:31:16+00:00"
-    },
-    {
       "title": "Hyundai Neira EV Revealed – Kia Carens Clavis EV Twin",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakwzS3F4bHBMeGh2cmItQUw3SDN0OXZNbTFjXzNxdzZWTVZsVlMzTFhzeEtkYVFoY1dILTdtQ2Z4YmNKb2tXOTlyempkM05Yc2lmSTNlT2JOS2FaSFYyb0t3NUViOGpVWUx5aVdUTDJNcUlFa1Y2NFpHamVqOEMxdVh3?oc=5",
       "source": "V3Cars",
       "published": "2026-11-19T07:00:00+00:00"
-    },
-    {
-      "title": "India-bound Vinfast VF 5 Facelift Unveiled",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xb2VaVE9ZSXJycHhxTU5UeU5sWGxKWmhxdVNUSzJuUnFKQ3p4UGNvd1ljdG9ZVEdXUWcxa2Vfa01oVlY4S3I5TGs1RUlBWXlEcmV4YjBfODZ1dWZMVFpaOVNybHJLNnBobHZ6cVhJMHhhUHJNZVJsaTREZTQ?oc=5",
-      "source": "CarWale",
-      "published": "2026-11-19T06:53:11+00:00"
     },
     {
       "title": "VinFast To Launch Three New Electric Scooters in India by 2027 With a Solid 165 km Range",
@@ -264,16 +270,10 @@
       "published": "2026-11-18T13:25:00+00:00"
     },
     {
-      "title": "VinFast VF5 Facelift Unveiled: Gets Wireless Charger, Cruise Control, And More",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDZDd2ZTNFFjVUdHeGY2a1NWbks3eDRhOFU5bFJHMEtGYUhzWEhKeFlSRVVDR29wNEVpaTJGWmxmS1RJWU91RWQxZ2s3NDNhQ3lBemNhYUduQVlfdXZ5d2c2d3d4SF9iNExfbW1fWjBzTFl6TmtVOEJLM2NyS002TUtOMlBxNkx6RjFZRUhMWWdDcGtsOGk1c0QtMHptQUpoZlhQVmVOdEhaQngyaDlFajlHMy1CYjZ2Mk5pc09GZnpRTXPSAcoBQVVfeXFMT19YbW1RX2JZZ2RhaUg2S2hZOGVnQVl0c0ZjYjZCc0Rkc09jMEpaWGt1OGlIU3g5NU9YMThmM1FZWXdFcXU2NjlaQ3dGMkxEN3d5RjdIQjIxamdVUVc0aUVQOHJGNUZBZDJNNjRJckJHRXBCR29IeHFyU25FMXFGSG9ZSU5lT2lZLTcxaXJuZUhyRlJyYjRfaEkyX2t0QzZueVk4Z2FGeGh6VFMxU2NoQ1EtWDA2N21NbWtIcGJCYjlJallYUjNLejBidw?oc=5",
-      "source": "The Daily Jagran",
-      "published": "2026-11-18T11:27:00+00:00"
-    },
-    {
-      "title": "VinFast VF 5 – What To Expect From Upcoming Tata Nexon EV Rival?",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5NFZ5clUzUFAzdXhUOUFBM1U3UFh5aVRtQ2U1Q3BSMWx1UVhyMWlxQkNkcnhvYTJHNnVHTW05OGVPTXdGcHhOajZHYUhnbzZoWndyR3ZxUG1uV0FEeGx0NXc1b1U2NHlwMHUwaXJsVVJ6aFF5Q04w?oc=5",
-      "source": "V3Cars",
-      "published": "2026-11-18T07:25:27+00:00"
+      "title": "New Electric Scooter Spied - River RX02 For 2027 Launch?",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVU9KQ0VTejJJcjIya1BBQXJKMkxuT2taTkY1RE9EUW5ONUZYMm4yU21VNTdqLXpyUGhTQlk2U09lZEE0MWp4OHpRd0JLZVJoYWM0RmFOX29nN0dfWHA4N1NDRVQyZUJLQXdKcHJDYmstOWQ4cF9EYWpHejdjN202T1RURWlZeFpyVEhBQjBXdHhrYWZlNG1F0gGXAUFVX3lxTE5VT0pDRVN6MklyMjJrUEFBckoyTG5Pa1pORjVET0RRbk41RlgybjJTbVU1N2otenJQaFNCWTZTT2VkQTQxang4elF3QktlUmhhYzRGYU5fb2c3R19YcDg3U0NFVDJlQktBd0pwckNiay05ZDhwX0Rhakd6N2M3bTZPVFRFaVl4WnJUSEFCMFd0eGthZmU0bUU?oc=5",
+      "source": "RushLane",
+      "published": "2026-11-18T11:53:53+00:00"
     }
   ]
 }
