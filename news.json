@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T15:37:42.468253+00:00",
+  "updated": "2026-11-21T18:35:44.822160+00:00",
   "india": [
     {
       "title": "VinFast Plans Three Electric Scooters for India, Local Production Next Year",
@@ -94,10 +94,40 @@
   ],
   "global": [
     {
+      "title": "Rising Demand Means It’s Hard to Find an EV in the US",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGVJYTFEbkdkZ2dJaTZBVVZ1RGUzQ2R4REdnZDQwNkN1M0hfY0N3alF5WFlhWmFLOXZWRmRZVWxmTFZaajNMLXZSbl8zQVJmYTRTN05iX1l0ZmJJUjdXQXRJR3VSVl9FWW81TWpzdUNFRU5XUXNRZ1FsdnNKUVNFWHRWMEdpZW0zZlNmcVppQXBoTFV5RHhGalhzeWpQUnVRR3JuVnRvODVtUmc?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-21T18:16:28+00:00"
+    },
+    {
+      "title": "GTA 6 Electric Cars: 120 Chargers vs 57 Gas Stations",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUhUNnZOOUJnRVFIZWR6LThVRFRKVWhzMmJ4YVdxcjRQTC0zOXRBZUxwREVUQVgySDVxbkNHR09WYWozeFduOVVPSHp5T0lQZEU3RWQ2VVVnZ0x1X3N0Y1lxeGRhOWJ1WWtnLTdpR0Z2cmhUT21uZE44Z2E1NVdZWXBmWmpiYk9BOVE?oc=5",
+      "source": "shattered.io",
+      "published": "2026-11-21T16:59:23+00:00"
+    },
+    {
+      "title": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlJCTzczUlZsdXU1Z0pzOHB0SElBcW1LMG9sM2g1YWFvbU5neUwzM3lrLVpYd3BJZ3ZYY3Y5LVNnQXJPNEJZbWRPNTRQcmZZR2x2eFhPT1RnUG56S01FbG1CZGMyTlJVRjFfT0IyanQ4OVJBcFdQVzN6Rmd1cGpFcXNR?oc=5",
+      "source": "Electrek",
+      "published": "2026-11-21T16:21:00+00:00"
+    },
+    {
       "title": "US Car Dealerships Are Low on EV Models",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkxONjJNTnRKVXI4OFZlZWRfRjlqclJGYmFJY2gtNk4tNVlBSXlwaENfdHN0X0dncHU5TExTTm9UclhaVnJSZWQ2MXYxT0ZLT3RXT1ZjUlF3R3FfcnNIT3FzWGFhWnM4eEd6UHVFVDlwcnAzV3U5Tlg5UGZCaDVVM0JXZzBzbnN1SGRxb0VucnN1R3F5THJQTkRhUzJlOXJJU1lPSEFUUUxHaDJfdVhXR1hBUmk?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-11-21T15:00:13+00:00"
+    },
+    {
+      "title": "I Drove The 2026 Hyundai Ioniq 9. It's The Electric SUV For Real Families",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XR00yVTY0dWJzTmJkN1B3SzRVcW1ZMC1nXzZxbDgyR082OGF6WnF5VEZWYXBHaW1rQTlkVm56SWNnNjBqYmJQZkJHblcwcHh3OFpKLUNlclpGMTFsSlNxbFVSaWpya3pyRWI5ajJB?oc=5",
+      "source": "Motor1.com",
+      "published": "2026-11-21T13:38:50+00:00"
+    },
+    {
+      "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VYVzRuc3QzSVNnbHd5aWF2OVZmM1FkRXYydk5iNUkzTHZVUVRIVTFrSlRfZXhBdzdDUkxubEtRREhxQ0hOQ3FMMWE0U0xMTEZpTU5UcTB0NExVUWxXR29DZUlfdTlzZFR6TjBNa3c0MDRVTHJfOERSOE5zQVl1QmN6VFYtUGF3dFJF?oc=5",
+      "source": "InsideEVs",
+      "published": "2026-11-21T12:55:50+00:00"
     },
     {
       "title": "Federated Multi-Agent Reinforcement Learning Optimizes Electric Vehicle Scheduling Across Microgrids",
@@ -110,6 +140,18 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGZiTEhnelNKbExRZWVLQnNlbkdYTmdsV0xUQjNuNTVCZUQta2JMNmlsTUdXNEd1N0QzYW5YczNrZHJOUjRzd2VCZEY3U2FmU0ZUQ2Z0dENBa21IZkt1dXdnRzRzUGpXLTFuWXVFN3lKNE9oUGRYcnBMYVFsNVZWb1IzUmRPbVpaWDNLX2JLdlFWU0ZzN0EwZzg3MTBmZmJOenc?oc=5",
       "source": "The Verge",
       "published": "2026-11-21T12:00:00+00:00"
+    },
+    {
+      "title": "The Hyundai Ioniq 5 Is Now America's Best-Selling EV That Isn't A Tesla",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZQVM4YU05a2lSNzQ3LUlOQnhvWmhNUmhnVlJQYlRmT2xCUXF3OEFiRzJsVjJMOTVsT3h0ZEJVQ0hXZG1fejRqbHdWVkRCV2JRY1plSzZKbkNFUXZZWUZYcTJNS3VmU3FGZS1mSXd3?oc=5",
+      "source": "InsideEVs",
+      "published": "2026-11-21T11:57:41+00:00"
+    },
+    {
+      "title": "The Best EV Lease And Finance Deals In November 2026",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iQ2ZwZWpLekpUYnVNek95RWxXN3l3SXlSVHZLVTdYRTZfcF81TWRIXzB4RXh5NFBJOXFmU1dpZk1kN3JsYWlMOGZHLVBaRzl4UmktOE54MHlSUHZjSDUxSE1GMnBxYW0zcU5xWHVqb1hvTmRhckVBbm5aempVQQ?oc=5",
+      "source": "InsideEVs",
+      "published": "2026-11-21T11:07:24+00:00"
     },
     {
       "title": "A Chinese Tech Hub Offers a Peek at the Electric Cars Headed for Canada",
@@ -136,58 +178,16 @@
       "published": "2026-11-21T10:13:00+00:00"
     },
     {
-      "title": "Shell Built A Tiny EV With Hyper-Fast Charging And A New Cooling System",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fcDExRUc0ejRMdHFwVmdSdDBUOVRBTXlNTTlFYXFPcnVBQVFhenJwazBHdzA0V3FRRTZ4Q0MySzQ3SHlaRDZaWFVOYlE0aTVQdWEzX1IwU2VmQ3lkYnpuWkpOVE56ME9IN1lxZTVEVF90SGhX?oc=5",
-      "source": "InsideEVs",
-      "published": "2026-11-21T08:14:47+00:00"
-    },
-    {
-      "title": "Opel and Leapmotor Join Forces on a New Electric SUV Coming in 2028",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVExoaGtqTUFXNFVfY3VCV3ZSaEYwYzZ2V3F5dVYwWE9LR1ZBOGprYVItV0V1V2k3aU0yU0hicnNJNWc4ZTNIRllHWHhOYXhlSHlsZHdfMVh4YWFEZVUxUGpRZEl6bnVodlpjTE1LcEowenhLYVB3UWgzQkgzNm9jbEN0QTBZYk9PdW1HcHd0ejhSUkgxbkc1dl8yNTB1YXB1ZU03emt6SEg5VDg?oc=5",
-      "source": "Electric Cars Report",
-      "published": "2026-11-21T07:45:53+00:00"
-    },
-    {
-      "title": "Hawaii overtakes California for highest gas prices as electric vehicle concerns grow",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzdE9xMnVHNzhyS0xYb1lFZXpGZmw5cUcyalpxYkN2RkxqZm8yUDkyWTF3R2tDR1J6a1I2YjF3ZHhWZUxUMWdidFFUaFdoang1d0ozbUF6SmRORXJNQTFCMkY2dUJtR3M5OVFra3ZYVEpBXzFpRS11ZA?oc=5",
-      "source": "KCRA",
-      "published": "2026-11-21T06:16:00+00:00"
-    },
-    {
-      "title": "EVs top 70% of China sales as petrol cars take brunt of slump",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQjFRWEtaRnh6Z3E0dXdKVERmTWJEcHp2TVR5dkUzRUZwa2JmTHcyRnVpQ3c2V0k1OEdJVUN6bGo4X2Y4U3VaNVZxbGRUelB0X1ByVElfYUVNY2F6LUhSY1JuRHVFRnZ5c3NGU2lva3BMMlBVbldEMEJvOUJ6OVB0czlXQ2VTejVTMlFRQmtDakxFWm5aZVlkaUVsbFR5b2hOaGt6WDVaLUMzd0dBNTlVenotMDNRV3Itckp1NjlGdUtrQ1pNOFhRWUxzckxJZw?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-21T06:00:09+00:00"
-    },
-    {
-      "title": "India's Getting EV-Ready: EV Doctor Now Available for Petrol Garages",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkliRTlkY1o1ay0tbk1zeHQ1dEJhS1V0MHZMOXRBQXJDQXlGY1pTcEJGakpVTGNEM21XTlhtdGQtbXVkRjZsZ2VGZzdjZ0VDbVJXNUdHNnlTcXVjbVRKMmg1aU9vaUlnbXZGZGhJa0VIckVRemtkbFRzZHl5bXk1SzBkXzFxMjF4bDZOQmc4cVo2bEh4UGl5SkdTYjl1N21TSVZRVG93VFdBd0kxZ3c?oc=5",
-      "source": "www.indiagazette.com",
-      "published": "2026-11-21T05:42:00+00:00"
-    },
-    {
-      "title": "The Best EV Lease And Finance Deals In November 2026",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iQ2ZwZWpLekpUYnVNek95RWxXN3l3SXlSVHZLVTdYRTZfcF81TWRIXzB4RXh5NFBJOXFmU1dpZk1kN3JsYWlMOGZHLVBaRzl4UmktOE54MHlSUHZjSDUxSE1GMnBxYW0zcU5xWHVqb1hvTmRhckVBbm5aempVQQ?oc=5",
-      "source": "InsideEVs",
-      "published": "2026-11-21T03:26:59+00:00"
-    },
-    {
-      "title": "German firm gives 'second life' to used EV batteries",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSlhBRmZJTlV1Z1M2TWtrdHRrQkl0OVBBNGtIODdEeTRpTGhMdFpnd0xfOFNTZ1YxTXZWazRaNWJSTVQyTS1MWGpjandWTEZ2YTdLOU5SVUxhLWd5SGI4N1paenE3WmMtU0hFLTJaVHlSNU9pSUs0R0tIZW5WT2Jleko2RW1NMXU0allfbDJrSnhBWXZSNEY1Szk4UFNXaXFMc2R2S3BzaFdtdDFaMENDb2xEYmhvV0RwaTM4Q2VrREc2WFNzM0ZuZjhYWm92bUZQQkVJOGp1LV9uYnp5dVJ3Y3U2N2VZU3Y1?oc=5",
-      "source": "ET Auto",
-      "published": "2026-11-21T02:50:31+00:00"
-    },
-    {
-      "title": "I Drove The 2026 Hyundai Ioniq 9. It's The Electric SUV For Real Families",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XR00yVTY0dWJzTmJkN1B3SzRVcW1ZMC1nXzZxbDgyR082OGF6WnF5VEZWYXBHaW1rQTlkVm56SWNnNjBqYmJQZkJHblcwcHh3OFpKLUNlclpGMTFsSlNxbFVSaWpya3pyRWI5ajJB?oc=5",
+      "title": "What Is A Solid-State Battery, And Why Is Everyone Talking About It?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQW45VlFsZmxrcU9vRVZ4UzZfVldTY3B5Y0p4bEI3Wm5ub2lSX0pPM1pweFcxV21FYUtfdzdiUUh2OVhiZnNZTnZTUlpnNERWZG1rSjJKUjJtZEpDTzdXNC1Ib1FRMnFDRkZFdEw2Z3RRVFVrYk51Y2xsbkRMVnNqNkkwbmxHVlpsSnlTQ0Z1cFI?oc=5",
       "source": "Motor1.com",
-      "published": "2026-11-21T02:13:39+00:00"
+      "published": "2026-11-21T09:51:03+00:00"
     }
   ],
   "upcoming": [
     {
       "title": "Honda Avancier 4x4: New 2.0L hybrid SUV with electric AWD, three-row cabin and advanced features unveiled",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSU9Da0hoNzhmeHcxQklGLUZNY1J2N1hNTEV1RkxpdVktQklsWmVHX1VodHFjaC1GSU5waEZQcFRBTXpMQWRQV1pER0w1Z2dxMXYxZDg1alB1dmRxV1RUOTBSaW5Zd015X2RiNVc1Z0YwU1AtWVhySHpsYlRGU1lhTG1NVlRCT1lOdDRNS1Z6TlV0VmxWVENCRVQ4XzVaRzlSY2lhTnhZcm1KZ1pzdjJWclR6UHJ2QWxERmVsV0oyUEh3VEtMMHBRRUh0SWJOci02XzZPMG9RQTRrbkhCczFSQVFodW92N3dQMWNLbHd1bw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSU9Da0hoNzhmeHcxQklGLUZNY1J2N1hNTEV1RkxpdVktQklsWmVHX1VodHFjaC1GSU5waEZQcFRBTXpMQWRQV1pER0w1Z2dxMXYxZDg1alB1dmRxV1RUOTBSaW5Zd015X2RiNVc1Z0YwU1AtWVhySHpsYlRGU1lhTG1NVlRCT1lOdDRNS1Z6TlV0VmxWVENCRVQ4XzVaRzlSY2lhTnhZcm1KZ1pzdjJWclR6UHJ2QWxERmVsV0oyUEh3VEtMMHBRRUh0SWJOci02XzZPMG9RQTRrbkhCczFSQVFodW92N3dQMWNLbHd1b9IB9AFBVV95cUxPdWkzN3Y3UFZFTXJpay1oS3NSRFllbXFXODRTSmFtMW9VQVpEanQ5YzhMcXVjODJ2YmNNdDRvTVdua0FtLXExanpYc0t0WlRfLWxRMFhWZlJtYjBpTUwtRFRVNy1acjlBcTNrdzJTWHhic2pXUmJwR0EyRG9PYXdtTkRpQWowZGhwV1g3MFQwSGlrdm9HY0tNWjlVdjFmM0R5UEVhNFZpb2I5TnUtd0JHTzlxR0dkdHJ6U2wzblEySjZ4Sk5pSkk2dDFwdUl2ZU1wQWhpRFFVMGxLMnk1X2pRR2k4WUVNT0FHNUhoTGxBcDRGazIx?oc=5",
       "source": "Livemint",
       "published": "2026-11-21T14:35:45+00:00"
     },
@@ -214,6 +214,12 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEY5WkhWSXpQWWFVejRhLW1ZZUh6MG5JRjdoOGZOTkNhZWtOU3I1SXQ3b0E0LUhETUpISGVibW92enFHYUdPckh1UlM3T1FEQldSTWVsR2JidFBmNmFqRmlxbUh4eEh6eThvNnpjdTJ4ZlBlUVpJRTAtNjJ3VkJmNnVqbklocmJHcmVtaWFrbm1KbkoxdE43ZURzcU5tb1NJUDA0dXotcGlNbUpQOW12QkhnUmxDcnFzS2pCUlZZQzBscEhZX2JV0gHCAUFVX3lxTE1jaHZucWdiQ044NVVlclVkcTk2Ni1KY3lGWDRiU3l1T0hVbXpISDc0MTZONWxzVVpaaFp0NkFwOXdDYXJWa19nXzBfcHl1ZnBVMkQzRUx3VWJOWmlCb0JhZ2JJcHVNZ0g5aGJKZV9sRWxxUU56TW5CNzVZelRzRmRQWWJiRDlzNVRIMGswNEVNUk81LVU5VFI0WFRuMXozdWhWakd3MWRnV3NEWFhrSDdlYVppQ1o0bnFCMkM4WGNaWUhB?oc=5",
       "source": "ET Auto",
       "published": "2026-11-20T23:34:04+00:00"
+    },
+    {
+      "title": "2 New 7-Seat Electric SUVs From Tata And Mahindra Launching Soon: All You Need To Know",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFItUU1vdzVqVjlyc21EUUpPd3o3UGd3cm9TZEJjNm9sX3R5UmxUZUhYVHp5bklWMFp3RGl6QlRNSmtFZVRKWXhtNnJFVW1BM2lael9xbVctUTR5UTBadkRKYmw0VkxyRTFWbTNwdGhablB6Q05RckM1cGJ4ZUlFQw?oc=5",
+      "source": "Cartoq",
+      "published": "2026-11-20T01:22:53+00:00"
     },
     {
       "title": "Lamborghini Temerario Spyder Unveiled With 907hp Hybrid Powertrain and Electric Retractable Hardtop",
@@ -268,12 +274,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHdxVGdVWjdMaDR4T3JoNENNSUlpRmZtdWdRNmNuVHA4NEpGLXlzWEI0akc2TTJFSk9xUUozYXQ5TEVYbmFLT3BRME5RdmF0RlNYMjFodDEyUGRXQ2tISGJyamxLUGZQVGtNUG5YV0NaTnJhN1FmWVF2VU9oX1lEbzR1TG5yUlN3MHIyZlNxSU5GRGl0a2NveEkxaldROXI4bkxRbTZoaUM3bFRBM0pwNmRZbHY?oc=5",
       "source": "News Karnataka",
       "published": "2026-11-19T03:59:11+00:00"
-    },
-    {
-      "title": "Hyundai Neira Electric MPV Revealed Ahead of Nov 20 Launch",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWhGTWdzZ2FzclhJYThoRE9tc0dMMWs3UmliSDZJWVBkTTZBTUxqUmhKcFhBSFl3VDQ2UUxDNWNTQklkckdIcDJmMDRacWlpM1pDaHpmWHlXd2ZMNG9YVkczN1Y1SkM0VVVZYmVVUktES003LTcyd29RV25RZWJiZTVRR25HUFNZSnVVZG1Jck1YZw?oc=5",
-      "source": "NewsBricks",
-      "published": "2026-11-18T13:25:00+00:00"
     }
   ]
 }
